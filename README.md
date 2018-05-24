@@ -1,1 +1,1 @@
-hello world
+local 2
